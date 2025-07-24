@@ -4,7 +4,7 @@ import numpy as np
 
 st.set_page_config(page_title="Customer Churn Predictor")
 
-st.title("📉 Customer Churn Prediction App")
+st.title(" Customer Churn Prediction App")
 st.write("Fill in the customer details below to predict if the customer is likely to churn.")
 
 # --- Safe model loading with error handling ---
